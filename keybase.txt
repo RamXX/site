@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/rsalas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ramirosalas.com
+  * I am rsalas (https://keybase.io/rsalas) on keybase.
+  * I have a public key with fingerprint E611 DAFD FCBD 3397 19E1  06C1 6B77 8FBA 481F 1512
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014445b7cab1544c4c26a6a6a53445ea046206f2b26be7c63c9d8507698cd67b1c0a",
+            "fingerprint": "e611dafdfcbd339719e106c16b778fba481f1512",
+            "host": "keybase.io",
+            "key_id": "6b778fba481f1512",
+            "kid": "01014445b7cab1544c4c26a6a6a53445ea046206f2b26be7c63c9d8507698cd67b1c0a",
+            "uid": "b8f8ad2e80b16a253b2528c9b4d63119",
+            "username": "rsalas"
+        },
+        "revoke": {
+            "sig_ids": [
+                "18788a40e5871ebb3fea3b594b59b115a9e1b57edd0212de315ee10a0973fced0f"
+            ]
+        },
+        "service": {
+            "hostname": "ramirosalas.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1455724756,
+    "expire_in": 157680000,
+    "prev": "7597b8f07de75cfa015be77b0807fe4c6da24d6a5b8de5dacadf393c4278685c",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMOEAnicrVJtTBRHGL4D6gcUxVOJUMR0tVQEZWe/96TRFFERETSBpiAcs7uzx+bg
+DnfvUIrUlKBtbQtVTBW1UDXhIyjV2oYU04BKQ6qUEiQViiYU7A+rFCOIiC3tLKn/
++rMzmUzmned93meeeTuC/S2BVtfeytatK5barDevTvgsGR0n+koIyaMUE/YSwoVm
+N5SvIMPrcGkKYSdIQAKGYViJl6EEWIaRGZnioDlZGscRJBmOIjmVkihOQrzM0bKo
+CCzJc6IgKxwvAZmERCyham4n0gt1ze3FtIgDQIGqosqSQtMiD0QESE4GnMTzgipB
+RgAqYAGFE/M8hpmBxUnQQOs0D47hg2NW3n/g/2fdvlk6SVAFqFBIICXAQYqlJYql
+BFmUGIWjARBNoIF0NyxAGK0bMB8aRGksoaMijwuZrhqaE0s2CHsWAQReECBDIlbg
+AZIkWkWQlliRwUsCgIXYDInlkaKQFKAURAMWYXsgKfK0KiOFVIlszI3rFWnyLLnp
+0YvasEDTPbMC1smeAiysUPd4PbInH1/meb2Fht0U5i0uNNF7keT4l8chaW4FfxLO
+KEK6oXnchB1gpOzVTGLAsCxPMTzLxRJoX6GmI4dmIlieE0g8zDqoCFPyrMhju0he
+QTwrq5AELPaXl0iB5FXEyJwCKewaZCVBQawCZaiotEjLDMULnMDKhPmyPW4PYRex
+TOjElNg7N/T6dESUXru6O8BiDbTMecnPbF5L4PyQFy292RViOf5OWdBAdL3v+vPf
+kpOn3guI/EvYUBaTP9omnJo4OloRAaIHx3z3fnGVj2UFtj70VrBDtyfv1LwV4ggY
+H9lWcXhTXuie309NvnJ+4vJJ/3mJNakJ1zqrl8QfM7aeaLlk3HvyqDcZ1V34sHQ4
+vWFb2I9B7XdWzwN/FDf9WZ0jjmYevLvgyUK/LzP9F9w+g7TKoaSZ+TeeNluf5zXN
+2D7dFVeV05d86+HKB8qV+ItDMU2Hmg/YZmxZveXZPWvmZjz9uu2srY+qM96ujzvj
+WjZ+89jWhl4GLrzR3nV6f27uzprPc8q3tGa0xA1vPrlqWG9PbeveKX1s678YXj3Q
+nN3609n1ww7fD78ORJ7vT/dWJW2xZx05OHE6ypqa4lzZU7qli/Hu7st/Vkxfv7vv
+28Vu7aNDtgONtd1lUa65q9elfN/x3Zr+NPJcdC31xnR30v2qsF1HG1B4YmZX0uIr
+zSVXQ5zvx3RMfqKJqzr13MTItPrOqo05YdaIglfHll/eMTh/ckMdWRMRe+X5zuUr
+bo1cmrs9tdGtn3eeq3iTfLw2JUR5Nhauox2NWZWnauoSUqM3LUt7nB4aQfAbl7T7
+vdbbaIvan/sFGp+as/2IuKSnc2ptPBpkg+mlLbWxwdP3P3j07lAXZ4xE/XxsKGb6
+QVbP4ZlA+oTlyPoLX4Ue73z9+KK/yW+aFn1mrU542RGU8w/NvdZo
+=rGbl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rsalas
+
+==================================================================
+
